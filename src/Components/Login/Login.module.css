@@ -1,0 +1,40 @@
+.formWrapper{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../Utils/images/LoginBG.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formInnerWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px 50px 10px ;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+.formInnerWrapper input{
+  width: 100%;
+  margin-bottom: 18px;
+  height: 40px;
+  padding: 4px;
+  font-size: 18px;
+  background-color: white;
+  border-radius: 6px;
+}
+#submitButton{
+    width: 150px;
+    font-size: 24px;
+    cursor: pointer;
+    height: 50px;
+    
+    margin-top: 25px;
+
+}
+#submitButton:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
