@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pharmacy_management_system/static/css/main.982db757.chunk.css",
+    "main.js": "/pharmacy_management_system/static/js/main.dec93c38.chunk.js",
+    "main.js.map": "/pharmacy_management_system/static/js/main.dec93c38.chunk.js.map",
+    "runtime-main.js": "/pharmacy_management_system/static/js/runtime-main.b3d9da27.js",
+    "runtime-main.js.map": "/pharmacy_management_system/static/js/runtime-main.b3d9da27.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/pharmacy_management_system/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.86cf89de.chunk.js": "/pharmacy_management_system/static/js/2.86cf89de.chunk.js",
+    "static/js/2.86cf89de.chunk.js.map": "/pharmacy_management_system/static/js/2.86cf89de.chunk.js.map",
+    "static/js/3.6cc62212.chunk.js": "/pharmacy_management_system/static/js/3.6cc62212.chunk.js",
+    "static/js/3.6cc62212.chunk.js.map": "/pharmacy_management_system/static/js/3.6cc62212.chunk.js.map",
+    "index.html": "/pharmacy_management_system/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/pharmacy_management_system/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.982db757.chunk.css.map": "/pharmacy_management_system/static/css/main.982db757.chunk.css.map",
+    "static/js/2.86cf89de.chunk.js.LICENSE.txt": "/pharmacy_management_system/static/js/2.86cf89de.chunk.js.LICENSE.txt",
+    "static/media/Login.module.css": "/pharmacy_management_system/static/media/LoginBG.906dac5b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d9da27.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.86cf89de.chunk.js",
+    "static/css/main.982db757.chunk.css",
+    "static/js/main.dec93c38.chunk.js"
+  ]
+}
